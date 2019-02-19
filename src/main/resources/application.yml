@@ -1,0 +1,12 @@
+## YAML Template.
+---
+
+#spring:
+ # datasource:
+  #  url: aws-test.cilpbkfpr6xs.ap-south-1.rds.amazonaws.com/TestDB
+   # username: root
+   # password: Admin000
+  #jpa: 
+   #   hibernate.ddl-auto: update
+    #  generate-dll: true
+     # show-sql: true
